@@ -1,0 +1,94 @@
+    1  ls
+    2  ls -l
+    3  ssh-keygen
+    4  ssh-keygen --help
+    5  ls
+    6  ls -l
+    7  ssh-keygen
+    8  ssh-keygen -t rsa -b 4096 -C "niyazi.uzunalioglu@kayoom.com"
+    9  ls -l
+   10  ls -l
+   11  ls /
+   12  cp nukayoom* /c/users/niyazi/.ssh
+   13  exit
+   14  ls -l
+   15  ls -l /
+   16  ls -l /c
+   17  ls -l /c/Users/Niyazi/
+   18  ls -l /c/Users/Niyazi/.ssh
+   19  ps
+   20  top
+   21  pstree
+   22  ls
+   23  git config --global user.name "uzunal17"
+   24  git config --global user.email "niyazi.uzunalioglu@kayoom.com"
+   25  git config --global color.diff "auto"
+   26  git config --global color.status "auto"
+   27  git config --global color.branch "auto"
+   28  git config --global color.interactive "auto"
+   29  git config --global color.ui "true"
+   30  git config --global alias.st status
+   31  st
+   32  git st
+   33  git config --list
+   34  git config --list
+   35  git log
+   36  git --help
+   37  ssh-keygen --help
+   38  exit
+   39  git config --global user.name "Muhliz Sert"
+   40  $git config --list
+   41  git config --list
+   42  git config --global user.email "muhliz@yahoo.de"
+   43  git config --list
+   44  ls -l
+   45  ~/.gitconfig
+   46  cat ~/.gitconfig
+   47  ls -l
+   48  mc
+   49  ls etc
+   50  cat proc
+   51  ls proc
+   52  cat proc/version 
+   53  cat proc/meminfo 
+   54  ssh-keygen --help
+   55  cd /ncom
+   56  ls
+   57  cd /
+   58  ls
+   59  c:
+   60  cd c:/ncom
+   61  ls
+   62  mkdir gittest1
+   63  cd gittest1/
+   64  ls
+   65  ls
+   66  ls -l
+   67  git init
+   68  ls -l
+   69  ls .git
+   70  cd ..
+   71  ls
+   72  cd test1
+   73  mkdir test1
+   74  cd test1/
+   75  ls
+   76  git clone git@github.com:muhliz25/test1.git
+   77  ssh-keygen -t rsa -b 4096 -C "muhliz@yahoo.de"
+   78  ls -l ~/.ssh
+   79  ls -l
+   80  ren
+   81  ls -l
+   82  ifconfig
+   83  git clone git@github.com:muhliz25/test1.git
+   84  eval $(ssh-agent -s)
+   85  ssh-add ~/.ssh/id_rsa_myd.ppk 
+   86  git clone git@github.com:muhliz25/test1.git
+   87  ls -l
+   88  ls -l test1/
+   89  cat test1/README.md 
+   90  ls /
+   91  ls /etc/
+   92  git reflog
+   93  history
+   94  history > baglagit.txt
