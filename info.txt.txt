@@ -1,0 +1,25 @@
+in 
+	openerp/web/addons/controllers/templates/header.mako
+
+ist zeile 28
+
+	<img alt="OpenERP" id="company_logo" src="/openerp/static/images/openerp_small.png"/>
+
+das logo kommt in
+
+	openerp/static/images
+
+im gleichen ordner ist auch
+
+	nav-bg-a.png
+
+wird eingestellt im
+
+	openerp/static/css/screen.css
+
+zeile 515
+
+	#main_nav {
+	    background: url(../images/nav-bg-a.png) repeat-x;
+	    width: 100%;
+	}
